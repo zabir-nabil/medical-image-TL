@@ -1,1 +1,7 @@
+There are not enough good tutorials on medical image classification with DL.
+Todo:
+1) will write a medium blog in free time
+2) need to get a GPU asap :(
+3) do more generalized models, take inspiration from YOLO
+
 https://chsasank.github.io/keras-tutorial.html
