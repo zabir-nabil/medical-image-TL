@@ -1,5 +1,3 @@
 ### Undergrad Thesis
 
-> Phase 1) Skin cancer classification : Improving performance using Transfer Learning
-> Phase 2) Add more data
-> Phase 3) Do more generalized model
+Publication link: https://www.researchgate.net/publication/330564744_Automatic_Skin_Lesion_Segmentation_and_Melanoma_Detection_Transfer_Learning_approach_with_U-Net_and_DCNN-SVM
